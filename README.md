@@ -1,4 +1,5 @@
+* Simple Website with html, php and css
 # Features :
-* Login and SingUp page .
+* Login and SignUp page .
 * User Setting .
-* Admin Panel
+* Admin Panel .
