@@ -1,0 +1,31 @@
+table {
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+    margin-top: 3%;
+    margin-left: 24%;
+
+}
+table tr th{
+    background: #A4A4A4;
+    color: white;
+    padding: 10px;
+    border-color: #A4A4A4;
+    border-radius: 20px;
+}
+table tr td{
+    padding: 10px;
+    text-align: center;
+    
+    
+}
+table tr td form input{
+    color: white;
+    background: #FF3232;
+    border-radius: 20px;
+    border: 2px solid #FF3232;
+    cursor: pointer;
+    text-align: center;
+    height: 3em;  
+    width: 10em;
+}
